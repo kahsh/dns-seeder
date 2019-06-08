@@ -401,7 +401,7 @@ extern "C" void* ThreadStats(void*) {
   return nullptr;
 }
 
-static const string mainnet_seeds[] = {"seed.kahsh.io", ""};
+static const string mainnet_seeds[] = {"seed.kahsh.info", ""};
 static const string testnet_seeds[] = {""};
 static const string *seeds = mainnet_seeds;
 
